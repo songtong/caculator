@@ -460,6 +460,7 @@
 				E4A8E5B418C221FB0021E94B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E4A8E5B518C221FB0021E94B /* Build configuration list for PBXNativeTarget "caculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				E4A8E5B718C221FB0021E94B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
